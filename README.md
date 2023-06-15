@@ -3,6 +3,8 @@
 
 The source code for the dll used is [here](https://github.com/xen-42/ow-new-horizons-mod-template).
 
+CHANGE FOR MY MOD
+
 ## Prerequisites
 - Outer Wilds Mod Manager (get it from the [Outer Wilds Mods](https://outerwildsmods.com/) website)
 - OWML installed in the Mod Manager
